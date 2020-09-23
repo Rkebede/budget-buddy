@@ -1,0 +1,6 @@
+[submodule "bb-backend"]
+	path = bb-backend
+	url = git@github.com:Rkebede/bb-backend.git
+[submodule "bb-frontend"]
+	path = bb-frontend
+	url = git@github.com:Rkebede/bb-frontend.git
