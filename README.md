@@ -21,10 +21,12 @@ What things you need to install the software and how to install them.
 ## Usage
 
 To run rails server
+      
       ./budget-budy/bb-backend/rails s 
 
 To run application 
-    ./budget-budy/bb-backend/open index.html
+    
+      ./budget-budy/bb-backend/open index.html
 
 ## Development
 
